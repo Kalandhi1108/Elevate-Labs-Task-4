@@ -80,6 +80,8 @@ On this Task:
 
 -->I verified the block with Telnet and confirmed a connection refusal.
 
+Outcome: Basic firewa l management skils and understanding of network traffic filtering
+
 ( ATTACHED WITH SCREENSHOTS ON LINUX)
 
 
