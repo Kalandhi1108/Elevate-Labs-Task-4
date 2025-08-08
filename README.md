@@ -80,6 +80,8 @@ On this Task:
 
 -->I verified the block with Telnet and confirmed a connection refusal.
 
+( ATTACHED WITH SCREENSHOTS ON LINUX)
+
 
 
 
